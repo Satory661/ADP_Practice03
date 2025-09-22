@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADP_Practice03", "ADP_Practice03\ADP_Practice03\ADP_Practice03.csproj", "{1440AD1B-D0F6-457D-9299-DFF7B9E42283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADP_Practice03.Sample", "ADP_Practice03\ADP_Practice03.Sample\ADP_Practice03.Sample.csproj", "{9000B49E-0087-4D5F-B223-EB01928CDAE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADP_Practice03.Tests", "ADP_Practice03\ADP_Practice03.Tests\ADP_Practice03.Tests.csproj", "{F2F1318F-0DFA-4C91-88A1-93D18FECAB6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1440AD1B-D0F6-457D-9299-DFF7B9E42283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1440AD1B-D0F6-457D-9299-DFF7B9E42283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1440AD1B-D0F6-457D-9299-DFF7B9E42283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1440AD1B-D0F6-457D-9299-DFF7B9E42283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9000B49E-0087-4D5F-B223-EB01928CDAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9000B49E-0087-4D5F-B223-EB01928CDAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9000B49E-0087-4D5F-B223-EB01928CDAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9000B49E-0087-4D5F-B223-EB01928CDAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F1318F-0DFA-4C91-88A1-93D18FECAB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F1318F-0DFA-4C91-88A1-93D18FECAB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F1318F-0DFA-4C91-88A1-93D18FECAB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F1318F-0DFA-4C91-88A1-93D18FECAB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
